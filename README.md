@@ -24,7 +24,7 @@ Pregúntame cualquier cosa a mi <a href="glazcanocda@gmail.com"><b>email</b></a>
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>¡Broma de desarrollo aleatoria para ti! (crea el tuyo propio haciendo clic aquí ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
