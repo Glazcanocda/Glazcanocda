@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 </div>
 
@@ -18,30 +18,31 @@ Pregúntame cualquier cosa a mi <a href="glazcanocda@gmail.com"><b>email</b></a>
 
 </div>
 
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+- 🔭 Actualmente me encuentro buscando empleo ...
+- 🌱 actualmente estoy aprendiendo ...
+- 🤔 Me encantan los nuevos desafios ...
+- 💬 Donde vivo: en Quillota,Valparaiso,Chile ...
+- 📫 Como ubicarme: por redes sociales y Whatsapp  ...
+- 😄 Que es lo que mas me gusta: Mi hogar,mi familia  ...
+- ⚡ Dato curioso: He aprendido mas ahora que en la universidad...
 
 </br>
 </br>
-<i>¡Broma de desarrollo aleatoria para ti! (crea el tuyo propio haciendo clic aquí ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 
 ---
-[![Número de visitas](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
-<i>Sígueme por la web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]([https://rahulmahesh.me](https://glazcanocda.github.io/portfolio/)/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Glazcanocda) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/glazcanocda)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_gabriel.l.cepeda_/) 
+[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/Glazcanocda)
 
-<a href="https://www.linkedin.com/in/glazcanocda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
-</div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](www.linkedin.com/in/glazcanocda/) 
 
 <!--
 **ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
